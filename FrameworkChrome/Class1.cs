@@ -588,7 +588,7 @@ namespace FrameworkChrome
             // t = time2 - time1;
             // p = t.ToString();
             // writeResult("1", "Clicking on More...", "", "", "Clicked", "pass", true, p);
-
+        
         }
         public void Timesheet(Dictionary<string, string> DicArg)
         {
